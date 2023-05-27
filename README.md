@@ -1,2 +1,6 @@
-# BozeClient-Web
-@boze.dev website source &amp; other files.
+# BozeClient-Website
+
++ **BozeClient website source code and other useful files.**
+
+# Credits
+Boze Team - for website
